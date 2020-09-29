@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nvar CCIndex = function CCIndex() {\n  return __jsx(React.Fragment, null, __jsx(\"h1\", null, \"Hello world!\"));\n};\n\nexport default CCIndex; // sudo npm run dev","map":null,"metadata":{},"sourceType":"module"}

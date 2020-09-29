@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport ToDo from '../components/to-do';\n\nconst Index = () => {\n  return /*#__PURE__*/React.createElement(React.Fragment, null, /*#__PURE__*/React.createElement(ToDo, null));\n};\n\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}
